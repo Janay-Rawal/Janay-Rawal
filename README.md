@@ -290,13 +290,13 @@ Delivered a real-time cryptocurrency analytics solution for a private client, co
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janayrawal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&icon_color=6D28D9&text_color=E2E8F0&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janay-rawal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&icon_color=6D28D9&text_color=E2E8F0&hide_border=false"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janayrawal&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&text_color=E2E8F0&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janay-rawal&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&text_color=E2E8F0&hide_border=false"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=janayrawal&theme=tokyonight&background=0D0D1A&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=6D28D9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A855F7&sideLabels=A855F7&dates=94A3B8" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=janay-rawal&theme=tokyonight&background=0D0D1A&border=7C3AED&stroke=7C3AED&ring=A855F7&fire=6D28D9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A855F7&sideLabels=A855F7&dates=94A3B8" alt="GitHub Streak"/>
 
 </div>
 
@@ -306,7 +306,7 @@ Delivered a real-time cryptocurrency analytics solution for a private client, co
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=janayrawal&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=janay-rawal&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -316,7 +316,7 @@ Delivered a real-time cryptocurrency analytics solution for a private client, co
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janayrawal&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=6D28D9&area=true&area_color=4C1D95&hide_border=false&border_color=7C3AED&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janay-rawal&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=6D28D9&area=true&area_color=4C1D95&hide_border=false&border_color=7C3AED&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -326,7 +326,7 @@ Delivered a real-time cryptocurrency analytics solution for a private client, co
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/janayrawal/janayrawal/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/janay-rawal/janayrawal/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
