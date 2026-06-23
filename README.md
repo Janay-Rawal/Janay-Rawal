@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Janay%20Rawal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML%20%7C%20GenAI&descAlignY=58&descSize=20&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Janay%20Rawal&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+AI-powered+document+pipelines+%F0%9F%A7%A0;Engineering+full+stack+products+from+0+to+1+%F0%9F%9A%80;Turning+natural+language+into+structured+intelligence+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+AI+Systems;Engineering+Scalable+Backend+Services;Developing+Full+Stack+Applications;Exploring+LLMs+and+Agentic+Workflows)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,121 +20,78 @@
 &nbsp;
 [![Phone](https://img.shields.io/badge/+91--6366581769-Contact-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916366581769)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=janayrawal&style=flat-square&color=7C3AED&label=Profile+Views)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/janayrawal?style=flat-square&color=4F46E5&label=Followers&logo=github)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/janayrawal?style=flat-square&color=6D28D9&label=Total+Stars&logo=github)
-
 </div>
 
 ---
 
-## 〈 About Me 〉
+## About Me
 
-```yaml
-name        : Janay Rawal
-role        : Software Engineer Intern @ Luminosity Software Limited
-location    : Pune, Maharashtra, India
-education   : B.Tech, Electronics & Telecommunication Engg — SIT Pune (2022–2026)
-focus       : GenAI Pipelines · Full Stack Development · Data Analytics · NLP
-philosophy  : "Automate the tedious. Engineer the intelligent. Ship the impactful."
-```
+Final-year Electronics & Telecommunication Engineering student at SIT Pune, currently working as a Software Engineer Intern at Luminosity Software Limited. I build AI-powered document processing systems, backend APIs, and full stack web applications in production.
 
-I am a final-year engineering student and working software engineer with hands-on production experience building AI-powered document processing systems, full stack web platforms, and data analytics pipelines. I specialise in applying large language models and generative AI tooling to real-world business problems — from multi-stage OCR and LLM document pipelines to natural language interfaces over SQL databases.
+My core stack is Python, FastAPI, React, and SQL. I work across the full backend lifecycle — from designing REST APIs and LLM orchestration pipelines to integrating cloud document intelligence services like Amazon Textract. On the frontend, I've shipped complete React feature flows for live communication platforms.
 
-My engineering practice spans backend API development with FastAPI and Python, frontend delivery with React, cloud-native workflows on AWS and Azure, and BI tooling using Power BI and the Microsoft Power Platform. I bring a product mindset to everything I ship: I measure success in reduced processing times, cut review effort, and outcomes that business stakeholders can see directly.
-
-**Open To:**
-
-- `Full-Time` &nbsp; Software Engineer / AI Engineer / Data Engineer roles (2026 graduation)
-- `Internship` &nbsp; GenAI, NLP, or Full Stack engineering positions
-- `Collaboration` &nbsp; Open source projects in LLM tooling, developer productivity, and data infrastructure
-- `Freelance` &nbsp; Data analytics, Power BI dashboards, and automation projects
+I'm graduating in June 2026 and actively looking for **full-time Software Engineer, AI Engineer, or Full Stack Engineer** roles.
 
 ---
 
-## 〈 Tech Stack 〉
+## Tech Stack
 
 <div align="center">
 
 **Languages**
 
-[![Skills](https://skillicons.dev/icons?i=python,javascript,react,html,css,bash&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,javascript,html,css,bash&theme=dark)](https://skillicons.dev)
 
-**AI, ML & GenAI**
+**Frameworks & Libraries**
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=fastapi,react,tensorflow,streamlit&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-6D28D9?style=flat-square&logo=huggingface&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-4F46E5?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-5B21B6?style=flat-square&logo=openai&logoColor=white)
-![Amazon Textract](https://img.shields.io/badge/Amazon%20Textract-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4F46E5?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-5B21B6?style=flat-square&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white)
 
-**Backend & Databases**
+**Databases**
 
-[![Skills](https://skillicons.dev/icons?i=fastapi,mongodb,mysql,sqlite,docker,linux,git&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=dark)](https://skillicons.dev)
 &nbsp;
 ![Neo4j](https://img.shields.io/badge/Neo4j-4F46E5?style=flat-square&logo=neo4j&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-6D28D9?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-5B21B6?style=flat-square&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square&logoColor=white)
 
-**Cloud, Data & Tooling**
+**Cloud & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=aws,azure,react,streamlit&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,azure,docker,linux,git&theme=dark)](https://skillicons.dev)
 &nbsp;
+![Amazon Textract](https://img.shields.io/badge/Amazon%20Textract-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Analytics & Low-Code**
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4F46E5?style=flat-square&logo=numpy&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </div>
 
 ---
 
-## 〈 AI / ML Expertise 〉
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| **Generative AI & LLMs** | ████████░░ Advanced | LangChain, OpenAI API, prompt engineering, RAG pipelines, conversational memory |
-| **NLP** | ███████░░░ Proficient | Text classification, NER, transformers, schema-aware SQL generation, NL interfaces |
-| **Document AI** | ████████░░ Advanced | Amazon Textract, OCR pipelines, table detection, multi-stage LLM validation (DBOS) |
-| **Vector Databases** | ███████░░░ Proficient | ChromaDB, FAISS, embedding stores for retrieval-augmented systems |
-| **Machine Learning** | ██████░░░░ Intermediate | Scikit-learn, TensorFlow, supervised/unsupervised learning, model evaluation |
-| **Data Analytics & BI** | ████████░░ Advanced | Power BI dashboards, Pandas, NumPy, Matplotlib, Excel VBA, crypto data automation |
-| **Graph Databases** | ██████░░░░ Intermediate | Neo4j — graph result transformation into structured MongoDB downstream records |
-| **MLOps & Deployment** | ██████░░░░ Intermediate | Docker containerisation, cross-environment deployment, Streamlit app delivery |
-
-</div>
-
----
-
-## 〈 Featured Projects 〉
+## Featured Projects
 
 <details>
 <summary><strong>⬡ &nbsp; Natural Language SQL Engine</strong></summary>
 
 <br/>
 
-A conversational NL-to-SQL interface that allows non-technical users to query complex relational databases using plain English. Built with schema-aware generation and multi-step conversational memory so context carries across query turns, drastically reducing the barrier to data access.
+Conversational NL-to-SQL interface that lets non-technical users query relational databases in plain English. Uses LangChain's SQL Toolkit to introspect live schemas at runtime and inject table context into the LLM prompt. A Streamlit chat UI maintains session-level memory so follow-up queries carry context from prior results. Separate prompt chain steps handle intent classification, schema selection, SQL generation, and result formatting.
 
-| Attribute | Details |
+| | |
 |---|---|
 | **Stack** | Python · LangChain · Streamlit · MySQL · SQLite |
-| **Scale** | Supports 20+ table databases with complex joins and nested queries |
-| **Performance** | 60% reduction in query turnaround time vs manual SQL authoring |
-| **Security** | Read-only DB connections · parameterised query generation to prevent injection |
-| **Impact** | Enabled non-technical stakeholders to self-serve data queries without engineering support |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/janayrawal/nl-sql-engine) |
-
-The system uses LangChain's SQL Toolkit to introspect live database schemas at runtime, injecting relevant table and column context into the LLM prompt. A Streamlit chat UI provides a familiar conversational interface with session-level memory, allowing follow-up queries that reference prior results. The prompt chain separates intent classification, schema selection, SQL generation, and result formatting into discrete steps for reliability.
+| **Scale** | 20+ table databases with complex joins and nested queries |
+| **Impact** | 60% reduction in query turnaround; non-technical users self-serve without engineering support |
+| **Repo** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/janayrawal/nl-sql-engine) |
 
 <br/>
 </details>
@@ -144,135 +101,70 @@ The system uses LangChain's SQL Toolkit to introspect live database schemas at r
 
 <br/>
 
-An intelligent API exploration tool that ingests OpenAPI/Swagger specification files, auto-discovers and summarises REST endpoints using an LLM, and provides an interactive testing interface — reducing the time engineers spend onboarding to unfamiliar APIs from hours to minutes.
+Ingests OpenAPI/Swagger spec files, auto-discovers REST endpoints, and generates plain-English summaries of each endpoint's purpose, parameters, and expected responses using LangChain. Engineers can select an endpoint, fill parameters through a generated form, fire live test requests, and inspect responses — all in the browser. Packaged in Docker for consistent cross-environment behavior.
 
-| Attribute | Details |
+| | |
 |---|---|
 | **Stack** | Python · LangChain · Streamlit · Docker |
 | **Scale** | Auto-discovers and summarises 60+ REST endpoints per spec |
-| **Performance** | 50% reduction in API onboarding time in user testing |
-| **Security** | Isolated Docker container; no credential storage; request sandboxing |
-| **Impact** | Removed dependency on Postman + manual docs reading for new API integrations |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/janayrawal/api-discovery-platform) |
-
-The platform parses OpenAPI JSON/YAML specs to extract endpoint metadata, then uses LangChain to generate plain-English summaries of each endpoint's purpose, parameters, and expected response shapes. The Streamlit interface allows engineers to select an endpoint, fill parameters through a generated form, fire live test requests, and inspect responses — all without leaving the browser. Docker packaging ensures consistent behaviour across development and staging environments.
+| **Impact** | 50% reduction in API onboarding time; eliminated dependency on Postman + manual docs |
+| **Repo** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/janayrawal/api-discovery-platform) |
 
 <br/>
 </details>
 
 <details>
-<summary><strong>⬡ &nbsp; Employee Performance Management System</strong></summary>
+<summary><strong>⬡ &nbsp; AI Document Processing Pipeline</strong></summary>
 
 <br/>
 
-A no-code internal HR platform built on the Microsoft Power Platform that replaced manual spreadsheet-based HR processes with structured digital workflows covering employee onboarding, continuous feedback, and performance reviews — with automated approval cycles throughout.
+4-stage DBOS pipeline (OCR → table detection → LLM extraction → validation) that processes PDFs at scale using Amazon Textract and a FastAPI backend. Graph-to-document transformation logic converts Neo4j query results into structured MongoDB records for downstream consumption. Built and deployed in production at Luminosity Software Limited.
 
-| Attribute | Details |
+| | |
 |---|---|
-| **Stack** | Power Apps · SharePoint · Power Automate · Microsoft 365 |
-| **Scale** | Deployed for 20 employees; covers onboarding, feedback, and review cycles |
-| **Performance** | 40% reduction in HR administrative overhead |
-| **Security** | Role-based access via Azure AD · SharePoint permission scoping per employee record |
-| **Impact** | Eliminated manual spreadsheet errors; gave HR a single source of truth for all people data |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/janayrawal/employee-performance-system) |
-
-Power Apps forms were designed to map directly to SharePoint lists, preserving structured data integrity while giving HR a familiar UI. Power Automate flows handle multi-step approval routing — notifications fire to managers, reminders escalate on inaction, and completion status updates propagate back to the employee record automatically. The system reduced the HR review cycle from a 2-week manual email chain to a 3-day automated workflow.
+| **Stack** | Python · FastAPI · Amazon Textract · Neo4j · MongoDB |
+| **Scale** | 500+ PDFs processed; multi-stage LLM validation |
+| **Impact** | 40% cut in manual document review effort; 35% reduction in end-to-end processing time |
 
 <br/>
 </details>
 
 ---
 
-## 〈 Experience 〉
+## Experience
 
 **Software Engineer Intern** &nbsp;·&nbsp; **Luminosity Software Limited**
 `Jan 2026 – Present` &nbsp;·&nbsp; Remote
 
-Building backend infrastructure for an AI-powered document processing platform. Operating at the intersection of LLM orchestration, cloud document intelligence, and data pipeline engineering.
+- Built FastAPI backend for an AI document processing platform, reducing manual document review effort by **40%**
+- Architected a 4-stage DBOS pipeline (OCR → table detection → LLM extraction → validation) processing **500+ PDFs** via Amazon Textract, cutting end-to-end processing time by **35%**
+- Implemented Neo4j-to-MongoDB transformation logic, improving data consistency across downstream services
 
-- Engineered backend APIs using FastAPI and Python for an AI document processing platform, cutting document review effort by **40%**
-- Architected a 4-stage DBOS pipeline (OCR → table detection → LLM extraction → validation) processing **500+ PDFs** via Amazon Textract, reducing end-to-end processing time by **35%**
-- Implemented graph-to-document transformation logic converting Neo4j graph query results into structured MongoDB records, improving data consistency across downstream services
-
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-4F46E5?style=flat-square&logo=fastapi&logoColor=white)
-![Amazon Textract](https://img.shields.io/badge/Amazon%20Textract-6D28D9?style=flat-square&logo=amazonaws&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-5B21B6?style=flat-square&logo=neo4j&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-7C3AED?style=flat-square&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4F46E5?style=flat-square&logoColor=white)
+**Tech Stack:** Python · FastAPI · Amazon Textract · Neo4j · MongoDB · REST APIs
 
 <br/>
 
 **Software Engineer Intern** &nbsp;·&nbsp; **Luminosity Software Limited**
 `Jun 2024 – Jun 2025` &nbsp;·&nbsp; Remote
 
-Contributed to platform scalability improvements and full stack feature delivery for the PranaamG platform — a real-time communication product.
+- Shipped **3+ full stack React feature flows** for the PranaamG real-time communication platform (chat and call)
+- Optimised city search APIs through query refactoring, achieving **~30% faster response times** under load
 
-- Optimised city search APIs through query refactoring, achieving **~30% faster response times** and measurable improvements in platform scalability under load
-- Shipped **3+ complete full stack frontend flows** for the PranaamG platform (chat and call features) using React, collaborating with backend and product teams
-
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
+**Tech Stack:** React · JavaScript · Python
 
 <br/>
 
 **Independent Software Developer** &nbsp;·&nbsp; **Freelance Data Analytics**
 `Jan 2025 – Feb 2025` &nbsp;·&nbsp; Remote
 
-Delivered a real-time cryptocurrency analytics solution for a private client, combining live API data ingestion, VBA automation, and Power BI reporting.
+- Built a real-time Excel cryptocurrency tracker using VBA macros and the CoinMarketCap API, automating live price ingestion for **50+ assets**
+- Delivered **3 Power BI dashboards** (portfolio performance, holdings breakdown, market movement), cutting client reporting time by **70%**
 
-- Built a real-time Excel cryptocurrency tracker using VBA macros and the CoinMarketCap API, automating live price ingestion for **50+ crypto assets** with zero manual intervention
-- Delivered **3 Power BI dashboards** visualising portfolio performance, holdings breakdown, and market movement — cutting client reporting time by **70%**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![CoinMarketCap API](https://img.shields.io/badge/CoinMarketCap%20API-6D28D9?style=flat-square&logoColor=white)
+**Tech Stack:** Power BI · Excel VBA · CoinMarketCap API
 
 ---
 
-## 〈 Achievements 〉
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| ⚡ **40% Review Effort Reduction** | AI document pipeline at Luminosity cut manual document review overhead by 40% in production |
-| 🔄 **500+ PDFs Automated** | 4-stage DBOS pipeline (OCR → LLM → Validation) processing hundreds of documents hands-free |
-| 📊 **70% Reporting Time Cut** | Power BI analytics suite eliminated 70% of manual client reporting effort for crypto portfolio |
-| 🚀 **30% API Speed Improvement** | Query-level optimisations on PranaamG platform search APIs delivered measurable scalability gains |
-| 🧠 **60% Query Turnaround Reduction** | NL-to-SQL engine enabled non-technical database querying without engineering dependency |
-| 🏗️ **3+ Full Stack Flows Shipped** | End-to-end React feature delivery for a live real-time communication platform |
-
-</div>
-
----
-
-## 〈 Certifications 〉
-
-<div align="center">
-
-**Generative AI**
-
-![GenAI LangChain](https://img.shields.io/badge/Udemy-Generative%20AI%20with%20LangChain-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-
-<br/>
-
-**Data Analytics**
-
-![Data Analytics](https://img.shields.io/badge/Udemy-Data%20Analytics%3A%20Basics%20to%20Advanced-A435F0?style=for-the-badge&logo=udemy&logoColor=white)
-
-<br/>
-
-**Microsoft Azure**
-
-![Azure Essentials](https://img.shields.io/badge/Great%20Learning-Microsoft%20Azure%20Essentials-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-</div>
-
----
-
-## 〈 Coding Profiles 〉
+## Coding Profiles
 
 <div align="center">
 
@@ -286,7 +178,7 @@ Delivered a real-time cryptocurrency analytics solution for a private client, co
 
 ---
 
-## 〈 GitHub Analytics 〉
+## GitHub Analytics
 
 <div align="center">
 
@@ -302,65 +194,6 @@ Delivered a real-time cryptocurrency analytics solution for a private client, co
 
 ---
 
-## 〈 GitHub Trophies 〉
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=janay-rawal&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 〈 Contribution Activity 〉
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=janay-rawal&bg_color=0D0D1A&color=A855F7&line=7C3AED&point=6D28D9&area=true&area_color=4C1D95&hide_border=false&border_color=7C3AED&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 〈 Contribution Snake 〉
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/janay-rawal/janayrawal/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 〈 Current Focus 〉
-
-```yaml
-learning:
-  - Advanced LLM orchestration patterns: agents, tool use, multi-step reasoning
-  - System design fundamentals for distributed backend services
-  - Cloud-native MLOps: model serving, versioning, and monitoring on AWS
-
-building:
-  - An LLM-powered document intelligence toolkit (extending DBOS pipeline work)
-  - A personal portfolio site with live project demos
-  - Open source contributions to LangChain and Streamlit ecosystem
-
-exploring:
-  - GraphRAG: knowledge graph-augmented retrieval for enterprise document Q&A
-  - Real-time data pipelines with Apache Kafka and streaming analytics
-  - Multi-agent AI systems for complex task decomposition
-
-open_to:
-  - Full-time Software Engineer / AI Engineer roles (graduating Jun 2026)
-  - GenAI, NLP, or data engineering internships
-  - Freelance Power BI and automation engagements
-  - Open source collaboration in LLM tooling and developer productivity
-```
-
----
-
-## 〈 Connect 〉
-
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-janayrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janayrawal@gmail.com)
@@ -370,14 +203,6 @@ open_to:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janayrawal)
 &nbsp;&nbsp;
 [![Phone](https://img.shields.io/badge/WhatsApp-+91--6366581769-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916366581769)
-
-</div>
-
----
-
-<div align="center">
-
-*"The best engineers do not just write code — they reduce complexity, automate the unnecessary, and leave systems better than they found them."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn)
 
