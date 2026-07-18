@@ -182,9 +182,9 @@ Ingests OpenAPI/Swagger spec files, auto-discovers REST endpoints, and generates
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=janay-rawal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&icon_color=6D28D9&text_color=E2E8F0&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janay-Rawal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&icon_color=6D28D9&text_color=E2E8F0&hide_border=false"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janay-rawal&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&text_color=E2E8F0&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janay-Rawal&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A855F7&text_color=E2E8F0&hide_border=false"/>
 
 <br/><br/>
 
