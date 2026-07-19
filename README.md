@@ -26,8 +26,8 @@
                     ░                                       
                                                             
                                                             
-                              ░░         ▒▒░░               OS: macOS / Arch Linux
-                            ░░▒▒▒▒▒▒▒▒▒▒░  ▒▒▒░             Role: Backend &amp; AI Systems Engineer
+                                                            OS: macOS / Arch Linux
+                                                            Role: Backend &amp; AI Systems Engineer
                          ░░░      ▒▒▒▒▒░      ▒░░       ░   Graduation: June 2026 (B.Tech E&amp;TC, SIT Pune)
                          ░  ░░░░░░▒▒▒▒▒░░░░░░░  ░           Internship: Software Engineer Intern @ Luminosity
                          ░░░░  ░░░░░▒▒░░░  ░░░░ ░           Freelance: Active Contract Developer
