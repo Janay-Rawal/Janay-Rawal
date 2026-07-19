@@ -22,22 +22,22 @@
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ neofetch</span>
 
-      .───────.                    
+      ._______.                    
       |       |/                   OS: macOS / Arch Linux
-   |──|       |-                   Role: Backend & AI Systems Engineer
-      |       |\                   Graduation: June 2026 (B.Tech E&TC, SIT Pune)
-      |───────|                    Internship: Software Engineer Intern @ Luminosity
+   |__|       |-                   Role: Backend &amp; AI Systems Engineer
+      |       |\                   Graduation: June 2026 (B.Tech E&amp;TC, SIT Pune)
+      |_______|                    Internship: Software Engineer Intern @ Luminosity
         [ ]                        Freelance: Active Contract Developer
-     .───────.                     
+     ._______.                     
      |       |                     
-  ─────────────────────            
- I────────────────────| HaVoK²     
+  _____________________            
+ I____________________| HaVoK²     
 
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ tree ./skills_and_projects</span>
 📂 <span style="color: #A78BFA; font-weight: bold;">janay-rawal (main)</span>
 ├── 📂 <span style="color: #818CF8; font-weight: bold;">AI-Systems</span>
-│   └── 🤖 <span style="color: #F472B6; font-weight: bold;">Portfolio-Assistant</span> (Custom RAG on ChromaDB & Gemini)
+│   └── 🤖 <span style="color: #F472B6; font-weight: bold;">Portfolio-Assistant</span> (Custom RAG on ChromaDB &amp; Gemini)
 ├── 📂 <span style="color: #818CF8; font-weight: bold;">Backend</span>
 │   └── 🌐 <span style="color: #F472B6; font-weight: bold;">HYMN-Platform</span> (Next.js SaaS, Postgres, Prisma)
 └── 📂 <span style="color: #818CF8; font-weight: bold;">Tooling</span>
