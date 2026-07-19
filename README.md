@@ -1,41 +1,67 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Janay%20Rawal&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Backend%20%7C%20AI%20Systems%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=20&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+AI+Systems+%26+Custom+RAG+Pipelines;Designing+Scalable+Backend+APIs;Developing+Full+Stack+Next.js+Applications;Exploring+Agentic+Workflows+%26+GraphRAG)](https://git.io/typing-svg)
-
-<br/>
-
-![Degree](https://img.shields.io/badge/B.Tech%20E%26TC-Symbiosis%20Institute%20of%20Technology%2C%20Pune-7C3AED?style=flat-square&logo=academia&logoColor=white)
-&nbsp;
-![Location](https://img.shields.io/badge/Pune%2C%20India-📍-6D28D9?style=flat-square)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Intern%20%7C%20Freelancer-4F46E5?style=flat-square)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janay-rawal)
-&nbsp;
-[![Website](https://img.shields.io/badge/Website-janayrawal.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.janayrawal.in)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-janayrawal%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janayrawal@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916366581769)
-
+<div align="left">
+  <table width="100%" style="border: 1px solid #7C3AED; border-radius: 8px; border-collapse: collapse; background-color: #0D0D1E; font-family: 'Courier New', Courier, monospace;">
+    <!-- Terminal Titlebar -->
+    <tr style="background-color: #1E1B4B; border-bottom: 1px solid #7C3AED;">
+      <td style="padding: 8px 12px; border-radius: 8px 8px 0 0;">
+        <span style="color: #EF4444;">●</span>
+        <span style="color: #F59E0B;">●</span>
+        <span style="color: #10B981;">●</span>
+        <span style="color: #C084FC; margin-left: 20px; font-weight: bold; font-size: 13px;">janay-rawal@sit-pune: ~</span>
+      </td>
+    </tr>
+    <!-- Terminal Body -->
+    <tr>
+      <td style="padding: 20px; color: #E2E8F0; font-size: 14px; line-height: 1.6;">
+        <pre style="margin: 0; font-family: 'Courier New', Courier, monospace; color: #A78BFA; font-size: 13px;">
+     _                             ____                      _ 
+    | | __ _ _ __   __ _ _   _    |  _ \ __ ___      ____ _  | |
+ _  | |/ _` | '_ \ / _` | | | |   | |_) / _` \ \ /\ / / _` | | |
+| |_| | (_| | | | | (_| | |_| |   |  _ < (_| |\ V  V / (_| | | |
+ \___/ \__,_|_| |_|\__,_|\__, |   |_| \_\__,_| \_/\_/ \__,_| |_|
+                         |___/                                  
+        </pre>
+        <p style="margin: 15px 0 0 0; color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ neofetch</p>
+        <table width="100%" style="border: none; border-collapse: collapse; background: none; margin-top: 10px;">
+          <tr style="border: none; background: none;">
+            <td width="200px" style="vertical-align: top; border: none; padding: 0;">
+              <pre style="margin: 0; font-family: 'Courier New', Courier, monospace; color: #C084FC; font-size: 12px; line-height: 1.2;">
+   /\_/\  
+  ( o.o ) 
+   &gt; ^ &lt;  
+ /  | |  \
+(  |_|_|  )
+ `-------' 
+              </pre>
+            </td>
+            <td style="vertical-align: top; border: none; padding: 0 0 0 20px;">
+              <div style="font-family: 'Courier New', Courier, monospace; color: #E2E8F0; font-size: 13px; line-height: 1.5;">
+                <strong style="color: #A78BFA;">OS:</strong> macOS / Arch Linux<br/>
+                <strong style="color: #A78BFA;">Role:</strong> Backend &amp; AI Systems Engineer<br/>
+                <strong style="color: #A78BFA;">Graduation:</strong> June 2026 (B.Tech E&amp;TC, SIT Pune)<br/>
+                <strong style="color: #A78BFA;">Internship:</strong> Luminosity Software Limited<br/>
+                <strong style="color: #A78BFA;">Freelance:</strong> Active Contract Developer<br/>
+                <strong style="color: #A78BFA;">Current Stack:</strong> Python, FastAPI, Next.js, Neo4j, DBOS
+              </div>
+            </td>
+          </tr>
+        </table>
+        
+        <p style="margin: 25px 0 0 0; color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ tree ./skills_and_projects</p>
+        <pre style="margin: 10px 0 0 0; font-family: 'Courier New', Courier, monospace; color: #E2E8F0; font-size: 13px; line-height: 1.4;">
+📂 <strong style="color: #A78BFA;">janay-rawal (main)</strong>
+├── 📂 <strong style="color: #818CF8;">AI-Systems</strong>
+│   ├── 🤖 <strong style="color: #F472B6;">Portfolio-Assistant</strong> (Custom RAG on ChromaDB &amp; Gemini)
+│   └── 📄 <strong style="color: #F472B6;">Document-Pipeline</strong> (DBOS, Textract, Neo4j, MongoDB)
+├── 📂 <strong style="color: #818CF8;">Backend</strong>
+│   ├── 🌐 <strong style="color: #F472B6;">HYMN-Platform</strong> (Next.js SaaS, Postgres, Prisma)
+│   └── 📊 <strong style="color: #F472B6;">SQL-Intelligence</strong> (NL database analytics engine)
+└── 📂 <strong style="color: #818CF8;">Tooling</strong>
+    └── 🔎 <strong style="color: #F472B6;">API-Inspector</strong> (Streamlit Playwright discovery tool)
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
-
----
-
-## ⚡ About Me
-
-I am a backend-focused Software Engineer and AI Engineer specializing in production-grade intelligent systems. I design scalable APIs, custom RAG search engines, and distributed data orchestration pipelines. 
-
-Currently, I work as a **Software Engineering Intern at Luminosity Software Limited** and operate as a **Freelance Software Engineer** building web platforms and automated analytics tools for clients.
-
-### 🎯 Core Focus
-* 🤖 **AI & RAG:** Custom retrieval architectures, multi-agent orchestrations (**LangGraph**), and local vector databases (**ChromaDB**).
-* 💻 **Backend Architectures:** High-performance APIs (**FastAPI**, **Next.js** App Router), relational databases (**PostgreSQL**, **MySQL**), and workflow engines (**DBOS**).
-* ⚡ **Developer Tooling:** Automated rest API discovery, headless browser instrumentation (**Playwright**), and custom automation scripts.
 
 ---
 
@@ -47,9 +73,9 @@ Currently, I work as a **Software Engineering Intern at Luminosity Software Limi
 
 ---
 
-## 📂 Selected Projects
+### 📂 Selected Projects
 
-Here is a summarized view of my engineering work. Detailed technical write-ups, architecture schemas, and implementation choices are available on my portfolio site.
+<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ cat projects_teaser.db</p>
 
 | Project | Stack | Key Highlight / Core Contribution |
 | :--- | :--- | :--- |
@@ -61,7 +87,9 @@ Here is a summarized view of my engineering work. Detailed technical write-ups, 
 
 ---
 
-## 🛠️ Core Tech Stack
+### 🛠️ Core Tech Stack
+
+<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ list --skills</p>
 
 <div align="center">
 
@@ -71,30 +99,34 @@ Here is a summarized view of my engineering work. Detailed technical write-ups, 
 
 ---
 
-## 🏅 Coding Profiles
+### 📊 Accurate Git Metrics (Including Private Work)
+
+<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ fetch --metrics --live</p>
+
+<div align="center">
+  <img src="./stats.svg" width="390" />
+  &nbsp;&nbsp;
+  <img src="./languages.svg" width="390" />
+</div>
+
+---
+
+### 📞 Contact & Profiles
+
+<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ finger janay-rawal</p>
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Janay-Rawal)
 &nbsp;&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/janayrawal)
-&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/janayrawal)
-
-</div>
-
----
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-janayrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janayrawal@gmail.com)
-&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janay-rawal)
 &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Janay-Rawal)
+[![Gmail](https://img.shields.io/badge/Gmail-janayrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janayrawal@gmail.com)
 &nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916366581769)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn)
+<br/><br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn)
 
 </div>

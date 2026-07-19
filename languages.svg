@@ -1,0 +1,53 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card {
+      fill: #0D0D1E;
+      stroke: #7C3AED;
+      stroke-width: 1.5;
+      rx: 8;
+    }
+    .title { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C084FC; }
+    .lang-name { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E2E8F0; }
+    .lang-pct { font: bold 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #A78BFA; text-anchor: end; }
+    .glow {
+      filter: drop-shadow(0px 0px 4px rgba(124, 58, 237, 0.4));
+    }
+  </style>
+  <rect class="card glow" width="398" height="198" x="1" y="1" />
+  
+  <text class="title" x="25" y="35">Language Breakdown (By Bytes)</text>
+  
+  <g transform="translate(25, 55)">
+    
+    <g transform="translate(0, 0)">
+      <text class="lang-name" x="0" y="12">Python</text>
+      <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
+      <rect x="110" y="4" width="104" height="8" rx="4" fill="#3572A5" />
+      <text class="lang-pct" x="350" y="12">52.4%</text>
+    </g>
+    <g transform="translate(0, 25)">
+      <text class="lang-name" x="0" y="12">TypeScript</text>
+      <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
+      <rect x="110" y="4" width="48" height="8" rx="4" fill="#3178C6" />
+      <text class="lang-pct" x="350" y="12">24.1%</text>
+    </g>
+    <g transform="translate(0, 50)">
+      <text class="lang-name" x="0" y="12">JavaScript</text>
+      <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
+      <rect x="110" y="4" width="29" height="8" rx="4" fill="#F1E05A" />
+      <text class="lang-pct" x="350" y="12">14.8%</text>
+    </g>
+    <g transform="translate(0, 75)">
+      <text class="lang-name" x="0" y="12">SQL</text>
+      <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
+      <rect x="110" y="4" width="12" height="8" rx="4" fill="#E38C00" />
+      <text class="lang-pct" x="350" y="12">6.2%</text>
+    </g>
+    <g transform="translate(0, 100)">
+      <text class="lang-name" x="0" y="12">Bash</text>
+      <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
+      <rect x="110" y="4" width="5" height="8" rx="4" fill="#89e051" />
+      <text class="lang-pct" x="350" y="12">2.5%</text>
+    </g>
+  </g>
+</svg>

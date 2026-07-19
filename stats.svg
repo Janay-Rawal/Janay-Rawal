@@ -1,0 +1,54 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .card {
+      fill: #0D0D1E;
+      stroke: #7C3AED;
+      stroke-width: 1.5;
+      rx: 8;
+    }
+    .title { font: bold 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C084FC; }
+    .label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E2E8F0; }
+    .value { font: bold 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #A78BFA; }
+    .grade-circle {
+      stroke: #7C3AED;
+      fill: none;
+      stroke-width: 4;
+      stroke-dasharray: 251.3;
+      stroke-dashoffset: 0;
+      transform-origin: 330px 105px;
+      transform: rotate(-90deg);
+    }
+    .grade-text {
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #C084FC;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    .glow {
+      filter: drop-shadow(0px 0px 4px rgba(124, 58, 237, 0.4));
+    }
+  </style>
+  <rect class="card glow" width="398" height="198" x="1" y="1" />
+  
+  <text class="title" x="25" y="35">GitHub Stats (Inc. Private)</text>
+  
+  <g transform="translate(25, 60)">
+    <text class="label" x="0" y="15">Total Contributions</text>
+    <text class="value" x="170" y="15">486</text>
+    
+    <text class="label" x="0" y="45">Total Commits</text>
+    <text class="value" x="170" y="45">432</text>
+    
+    <text class="label" x="0" y="75">Pull Requests</text>
+    <text class="value" x="170" y="75">18</text>
+    
+    <text class="label" x="0" y="105">Code Reviews</text>
+    <text class="value" x="170" y="105">22</text>
+  </g>
+  
+  <!-- Circle Rank Graphic -->
+  <circle cx="330" cy="105" r="40" fill="#15152A" stroke="#1E1B4B" stroke-width="4" />
+  <circle class="grade-circle" cx="330" cy="105" r="40" />
+  <text class="grade-text" x="330" y="105">A+</text>
+  <text x="330" y="160" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#94A3B8" text-anchor="middle">PROFILE RANK</text>
+</svg>
