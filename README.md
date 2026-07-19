@@ -128,3 +128,29 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn)
 
 </div>
+
+---
+
+### 🌊 Optional Wave ASCII (Alternatives for Neofetch icon)
+
+If you want to swap out the character icon inside the Neofetch terminal block, here are two clean wave ASCII templates you can copy and paste:
+
+#### Option 1: Rolling Crests
+```text
+        _.._      _.._      _.._      _.._      _.._
+      .' .-'`   .' .-'`   .' .-'`   .' .-'`   .' .-'`
+     /  /      /  /      /  /      /  /      /  /
+    |  |      |  |      |  |      |  |      |  |
+    \  \      \  \      \  \      \  \      \  \
+     '._'-._   '._'-._   '._'-._   '._'-._   '._'-._
+        `''`      `''`      `''`      `''`      `''`
+```
+
+#### Option 2: Retro Wave Lines
+```text
+     ,-._   ,-._   ,-._   ,-._   ,-._   ,-._   ,-._   ,-._
+    /    \ /    \ /    \ /    \ /    \ /    \ /    \ /    \
+   \      \      \      \      \      \      \      \      \
+    `---'  `---'  `---'  `---'  `---'  `---'  `---'  `---'
+```
+
