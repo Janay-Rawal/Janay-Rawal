@@ -40,10 +40,8 @@
                            ░▒▒▒▒ ░▓▓▓▓▓▓ ░▒▒▒▒▒░            
                              ░▒▒▒▒░░░░░░▒▒▒▒░               
                              ░  ▒░▒▒▒▒▒▒▒░░  ░              
-                                           ░░               
-░░░░░░░░░░░░░                                               
-░░▒▒░░░░░▒▒░░                                               
-
+                                ░░ ░░ ░░ ░░                        
+                                 ▒▒▒▒▒▒▒▒▒                                               ▒▒▒▒▒                                                   ░░▒▒░                                                   ░▒░                                                    
 
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ tree ./skills_and_projects</span>
