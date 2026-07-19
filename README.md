@@ -22,30 +22,32 @@
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ neofetch</span>
 
- ░                                 
-                                   
-         ░░         ▒▒░░           
-       ░░▒▒▒▒▒▒▒▒▒▒░  ▒▒▒░         
-    ░░░      ▒▒▒▒▒░      ▒░░       OS: macOS / Arch Linux
-    ░  ░░░░░░▒▒▒▒▒░░░░░░░  ░       Role: Backend &amp; AI Systems Engineer
-    ░░░░  ░░░░░▒▒░░░  ░░░░ ░       Graduation: June 2026 (B.Tech E&amp;TC, SIT Pune)
-    ░░▓▓   ▓▓░░▒▒░▒▓░  ▒▓▓░░       Internship: Software Engineer Intern @ Luminosity
-░ ░ ░░░░░░░░░▒▒▒▒▒▒░░░░░░▒░░       Freelance: Active Contract Developer
-  ░▒░░▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒░░       
-    ░░▒▒▒▒▒▒▒░░░░░░▒▒▒▒▒▒▒░░░      
-  ░░  ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒░        
-      ░▒▒  ▓▓▓▓▓▓▓▓▓▒ ▒▒▒▒░        
-      ░▒▒▒▒ ░▓▓▓▓▓▓ ░▒▒▒▒▒░        
-        ░▒▒▒▒░░░░░░▒▒▒▒░           
-        ░  ▒░▒▒▒▒▒▒▒░░  ░          
-                      ░░           
-           ░░░░░░░░░░░░░           
-           ░░▒▒░░░░░▒▒░░           
-           ░░▒▒▒▒▒▒▒▒▒░░           
-             ▒▒▒▒▒▒▒▒▒             
-               ▒▒▒▒▒               
-               ░░▒▒░               
-                ░▒░                
+                      ░                               ░     
+                    ░                                       
+                                                            
+                                                            
+                              ░░         ▒▒░░               OS: macOS / Arch Linux
+                            ░░▒▒▒▒▒▒▒▒▒▒░  ▒▒▒░             Role: Backend &amp; AI Systems Engineer
+                         ░░░      ▒▒▒▒▒░      ▒░░       ░   Graduation: June 2026 (B.Tech E&amp;TC, SIT Pune)
+                         ░  ░░░░░░▒▒▒▒▒░░░░░░░  ░           Internship: Software Engineer Intern @ Luminosity
+                         ░░░░  ░░░░░▒▒░░░  ░░░░ ░           Freelance: Active Contract Developer
+                         ░░▓▓   ▓▓░░▒▒░▒▓░  ▒▓▓░░           
+                     ░ ░ ░░░░░░░░░▒▒▒▒▒▒░░░░░░▒░░  ░▒  ░    
+                       ░▒░░▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒░░░░▒▒       
+                         ░░▒▒▒▒▒▒▒░░░░░░▒▒▒▒▒▒▒░░░          
+                       ░░  ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒░            
+                           ░▒▒  ▓▓▓▓▓▓▓▓▓▒ ▒▒▒▒░            
+                           ░▒▒▒▒ ░▓▓▓▓▓▓ ░▒▒▒▒▒░            
+                             ░▒▒▒▒░░░░░░▒▒▒▒░               
+                             ░  ▒░▒▒▒▒▒▒▒░░  ░              
+                                           ░░               
+░░░░░░░░░░░░░                                               
+░░▒▒░░░░░▒▒░░                                               
+░░▒▒▒▒▒▒▒▒▒░░                                               
+  ▒▒▒▒▒▒▒▒▒                                                 
+    ▒▒▒▒▒                                                   
+    ░░▒▒░                                                   
+     ░▒░                                                    
 
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ tree ./skills_and_projects</span>
