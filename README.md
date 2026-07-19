@@ -22,25 +22,26 @@
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ neofetch</span>
 
-                      ░                               ░     
-                    ░                                       
-                                                            
-                                                            
-                                                            OS: macOS / Arch Linux
-                                                            Role: Backend &amp; AI Systems Engineer
-                         ░░░      ▒▒▒▒▒░      ▒░░       ░   Graduation: June 2026 (B.Tech E&amp;TC, SIT Pune)
-                         ░  ░░░░░░▒▒▒▒▒░░░░░░░  ░           Internship: Software Engineer Intern @ Luminosity
-                         ░░░░  ░░░░░▒▒░░░  ░░░░ ░           Freelance: Active Contract Developer
-                         ░░▓▓   ▓▓░░▒▒░▒▓░  ▒▓▓░░           
-                     ░ ░ ░░░░░░░░░▒▒▒▒▒▒░░░░░░▒░░  ░▒  ░    
-                       ░▒░░▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒░░░░▒▒       
-                         ░░▒▒▒▒▒▒▒░░░░░░▒▒▒▒▒▒▒░░░          
-                       ░░  ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒░            
-                           ░▒▒  ▓▓▓▓▓▓▓▓▓▒ ▒▒▒▒░            
-                           ░▒▒▒▒ ░▓▓▓▓▓▓ ░▒▒▒▒▒░            
-                             ░▒▒▒▒░░░░░░▒▒▒▒░               
-                             ░  ▒░▒▒▒▒▒▒▒░░  ░              
-                                ░▒▒▒▒▒▒▒▒                                                                                                
+      ooooooooooooooooooooooooooooooooooooo                        
+      8                                .d88                        
+      8  oooooooooooooooooooooooooooood8888                        
+      8  8888888888888888888888888P"   8888    oooooooooooooooo    
+      8  8888888888888888888888P"      8888    8              8    OS: macOS / Arch Linux
+      8  8888888888888888888P"         8888    8             d8    Role: Backend & AI Systems Engineer
+      8  8888888888888888P"            8888    8            d88    Graduation: June 2026 (B.Tech E&TC, SIT Pune)
+      8  8888888888888P"               8888    8           d888    Internship: Software Engineer Intern @ Luminosity
+      8  8888888888P"                  8888    8          d8888    Freelance: Active Contract Developer
+      8  8888888P"                     8888    8         d88888    
+      8  8888P"                        8888    8        d888888    
+      8  8888oooooooooooooooooooooocgmm8888    8       d8888888    
+      8 .od88888888888888888888888888888888    8      d88888888    
+      8888888888888888888888888888888888888    8     d888888888    
+                                               8    d8888888888    
+         ooooooooooooooooooooooooooooooo       8   d88888888888    
+        d                       ...oood8b      8  d888888888888    
+       d              ...oood888888888888b     8 d8888888888888    
+      d     ...oood88888888888888888888888b    8d88888888888888    
+     dood8888888888888888888888888888888888b                       
 
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ tree ./skills_and_projects</span>
