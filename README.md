@@ -22,16 +22,25 @@
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ neofetch</span>
 
-      ._______.                    
-      |       |/                   OS: macOS / Arch Linux
-   |__|       |-                   Role: Backend &amp; AI Systems Engineer
-      |       |\                   Graduation: June 2026 (B.Tech E&amp;TC, SIT Pune)
-      |_______|                    Internship: Software Engineer Intern @ Luminosity
-        [ ]                        Freelance: Active Contract Developer
-     ._______.                     
-     |       |                     
-  _____________________            
- I____________________| HaVoK²     
+                      ░                               ░     
+                    ░                                       
+                                                            
+                                                            
+                                                            OS: macOS / Arch Linux
+                                                            Role: Backend &amp; AI Systems Engineer
+                         ░░░      ▒▒▒▒▒░      ▒░░       ░   Graduation: June 2026 (B.Tech E&amp;TC, SIT Pune)
+                         ░  ░░░░░░▒▒▒▒▒░░░░░░░  ░           Internship: Software Engineer Intern @ Luminosity
+                         ░░░░  ░░░░░▒▒░░░  ░░░░ ░           Freelance: Active Contract Developer
+                         ░░▓▓   ▓▓░░▒▒░▒▓░  ▒▓▓░░           
+                     ░ ░ ░░░░░░░░░▒▒▒▒▒▒░░░░░░▒░░  ░▒  ░    
+                       ░▒░░▒▒▒▒▒▒▒░░▒▒▒▒▒▒▒▒▒▒▒░░░░▒▒       
+                         ░░▒▒▒▒▒▒▒░░░░░░▒▒▒▒▒▒▒░░░          
+                       ░░  ░▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░▒▒░            
+                           ░▒▒  ▓▓▓▓▓▓▓▓▓▒ ▒▒▒▒░            
+                           ░▒▒▒▒ ░▓▓▓▓▓▓ ░▒▒▒▒▒░            
+                             ░▒▒▒▒░░░░░░▒▒▒▒░               
+                             ░  ▒░▒▒▒▒▒▒▒░░  ░              
+                                ░▒▒▒▒▒▒▒▒                                                                                                
 
 
 <span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ tree ./skills_and_projects</span>
