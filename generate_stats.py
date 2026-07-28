@@ -36,14 +36,7 @@ if TOKEN:
     query($login: String!) {
       user(login: $login) {
         contributionsCollection {
-          contributionCalendar {
-            totalContributions
-          }
-          totalCommitContributions
-          totalPullRequestContributions
-          totalIssueContributions
-          totalPullRequestReviewContributions
-          restrictedContributionsCount
+          contributionYears
         }
         repositories(first: 100, ownerAffiliations: OWNER, isFork: false) {
           nodes {
@@ -76,20 +69,54 @@ if TOKEN:
             user_data = result.get("data", {}).get("user")
             
             if user_data:
-                contribs = user_data.get("contributionsCollection", {})
-                calendar = contribs.get("contributionCalendar", {})
+                contribution_years = user_data.get("contributionsCollection", {}).get("contributionYears", [])
+                print(f"Found active contribution years: {contribution_years}")
                 
-                # Calendar total represents the true contributions (including private)
-                total_contribs = calendar.get("totalContributions", 0)
+                total_contribs = 0
+                total_commits = 0
+                total_prs = 0
+                total_issues = 0
+                total_reviews = 0
                 
-                public_commits = contribs.get("totalCommitContributions", 0)
-                private_contribs = contribs.get("restrictedContributionsCount", 0)
-                total_commits = public_commits + private_contribs
-                
-                total_prs = contribs.get("totalPullRequestContributions", 0)
-                total_issues = contribs.get("totalIssueContributions", 0)
-                total_reviews = contribs.get("totalPullRequestReviewContributions", 0)
-                
+                # Fetch all-time contributions across every contribution year
+                for year in contribution_years:
+                    year_query = """
+                    query($login: String!, $from: DateTime!, $to: DateTime!) {
+                      user(login: $login) {
+                        contributionsCollection(from: $from, to: $to) {
+                          contributionCalendar {
+                            totalContributions
+                          }
+                          totalCommitContributions
+                          restrictedContributionsCount
+                          totalPullRequestContributions
+                          totalIssueContributions
+                          totalPullRequestReviewContributions
+                        }
+                      }
+                    }
+                    """
+                    from_date = f"{year}-01-01T00:00:00Z"
+                    to_date = f"{year}-12-31T23:59:59Z"
+                    y_vars = {"login": USERNAME, "from": from_date, "to": to_date}
+                    y_req_data = json.dumps({"query": year_query, "variables": y_vars}).encode("utf-8")
+                    y_req = urllib.request.Request("https://api.github.com/graphql", data=y_req_data, headers=headers)
+                    
+                    try:
+                        with urllib.request.urlopen(y_req) as y_res:
+                            y_data = json.loads(y_res.read().decode("utf-8")).get("data", {}).get("user", {}).get("contributionsCollection", {})
+                            cal_contribs = y_data.get("contributionCalendar", {}).get("totalContributions", 0)
+                            pub_commits = y_data.get("totalCommitContributions", 0)
+                            priv_commits = y_data.get("restrictedContributionsCount", 0)
+                            
+                            total_contribs += cal_contribs
+                            total_commits += (pub_commits + priv_commits)
+                            total_prs += y_data.get("totalPullRequestContributions", 0)
+                            total_issues += y_data.get("totalIssueContributions", 0)
+                            total_reviews += y_data.get("totalPullRequestReviewContributions", 0)
+                    except Exception as ye:
+                        print(f"Error fetching data for year {year}: {ye}")
+
                 # Aggregate languages
                 repos = user_data.get("repositories", {}).get("nodes", [])
                 lang_totals = {}
