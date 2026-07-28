@@ -7,6 +7,14 @@ import urllib.error
 USERNAME = "Janay-Rawal"
 TOKEN = os.getenv("PAT_TOKEN") or os.getenv("GITHUB_TOKEN")
 
+# Languages to exclude from profile statistics (e.g. legacy course assignments or markup)
+EXCLUDE_LANGUAGES = {"HTML", "CSS", "SCSS", "C", "C++"}
+
+# Map equivalent or derivative filetypes into core stack languages
+LANGUAGE_MAPPINGS = {
+    "Jupyter Notebook": {"name": "Python", "color": "#3572A5"}
+}
+
 # Fallback/Default values (accurate estimates)
 total_contribs = 486
 total_commits = 432
@@ -93,9 +101,15 @@ if TOKEN:
                         name = node.get("name")
                         color = node.get("color")
                         if name:
-                            # Exclude markup languages to focus on logic code
-                            if name in ["HTML", "CSS", "SCSS"]:
+                            # Exclude markup and unwanted languages
+                            if name in EXCLUDE_LANGUAGES:
                                 continue
+                            
+                            # Map derivative types (like Jupyter Notebooks) to core languages
+                            if name in LANGUAGE_MAPPINGS:
+                                color = LANGUAGE_MAPPINGS[name]["color"]
+                                name = LANGUAGE_MAPPINGS[name]["name"]
+
                             if name not in lang_totals:
                                 lang_totals[name] = {"size": 0, "color": color}
                             lang_totals[name]["size"] += size
