@@ -1,157 +1,79 @@
-<div align="left">
-  <table width="100%" style="border: 1px solid #7C3AED; border-radius: 8px; border-collapse: collapse; background-color: #0D0D1E; font-family: 'Courier New', Courier, monospace;">
-    <!-- Terminal Titlebar -->
-    <tr style="background-color: #1E1B4B; border-bottom: 1px solid #7C3AED;">
-      <td style="padding: 8px 12px; border-radius: 8px 8px 0 0; border: none;">
-        <span style="color: #EF4444;">●</span>
-        <span style="color: #F59E0B;">●</span>
-        <span style="color: #10B981;">●</span>
-        <span style="color: #C084FC; margin-left: 20px; font-weight: bold; font-size: 13px;">janay-rawal@sit-pune: ~</span>
-      </td>
-    </tr>
-    <!-- Terminal Body -->
-    <tr>
-      <td style="padding: 20px; background-color: #0D0D1E; border: none;">
-        <pre style="margin: 0; color: #E2E8F0; font-family: monospace; font-size: 13px; line-height: 1.45; background: none; border: none; padding: 0;">
-     _                             ____                      _ 
-    | | __ _ _ __   __ _ _   _    |  _ \ __ ___      ____ _  | |
- _  | |/ _` | '_ \ / _` | | | |   | |_) / _` \ \ /\ / / _` | | |
-| |_| | (_| | | | | (_| | |_| |   |  _ &lt; (_| |\ V  V / (_| | | |
- \___/ \__,_|_| |_|\__,_|\__, |   |_| \_\__,_| \_/\_/ \__,_| |_|
-                         |___/                                  
-
-<span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ neofetch</span>
-
-      ooooooooooooooooooooooooooooooooooooo                        
-      8                                .d88                        
-      8  oooooooooooooooooooooooooooood8888                        
-      8  8888888888888888888888888P"   8888    oooooooooooooooo    
-      8  8888888888888888888888P"      8888    8              8    OS: macOS / Arch Linux
-      8  8888888888888888888P"         8888    8             d8    Role: Backend & AI Systems Engineer
-      8  8888888888888888P"            8888    8            d88    Graduation: June 2026 (B.Tech E&TC, SIT Pune)
-      8  8888888888888P"               8888    8           d888    Internship: Software Engineer Intern @ Luminosity
-      8  8888888888P"                  8888    8          d8888    Freelance: Active Contract Developer
-      8  8888888P"                     8888    8         d88888    
-      8  8888P"                        8888    8        d888888    
-      8  8888oooooooooooooooooooooocgmm8888    8       d8888888    
-      8 .od88888888888888888888888888888888    8      d88888888    
-      8888888888888888888888888888888888888    8     d888888888    
-                                               8    d8888888888    
-         ooooooooooooooooooooooooooooooo       8   d88888888888    
-        d                       ...oood8b      8  d888888888888    
-       d              ...oood888888888888b     8 d8888888888888    
-      d     ...oood88888888888888888888888b    8d88888888888888    
-     dood8888888888888888888888888888888888b                       
-
-
-<span style="color: #10B981; font-weight: bold;">janay-rawal@sit-pune:~$ tree ./skills_and_projects</span>
-📂 <span style="color: #A78BFA; font-weight: bold;">janay-rawal (main)</span>
-├── 📂 <span style="color: #818CF8; font-weight: bold;">AI-Systems</span>
-│   └── 🤖 <span style="color: #F472B6; font-weight: bold;">Portfolio-Assistant</span> (Custom RAG on ChromaDB &amp; Gemini)
-├── 📂 <span style="color: #818CF8; font-weight: bold;">Backend</span>
-│   └── 🌐 <span style="color: #F472B6; font-weight: bold;">HYMN-Platform</span> (Next.js SaaS, Postgres, Prisma)
-└── 📂 <span style="color: #818CF8; font-weight: bold;">Tooling</span>
-    └── 🔎 <span style="color: #F472B6; font-weight: bold;">API-Inspector</span> (Streamlit Playwright discovery tool)
-        </pre>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-> [!IMPORTANT]
-> ### 🤖 Chat with my AI Portfolio Assistant
-> Rather than browsing static documentation, you can ask my custom-trained RAG AI assistant direct questions about my codebase architectures, design trade-offs, freelance contracts, or engineering decisions.
->
-> **[Launch AI Assistant & Explore Projects at janayrawal.in →](https://www.janayrawal.in)**
-
----
-
-### 📂 Featured Projects
-
-<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ cat projects_teaser.db</p>
-
-| Project | Stack | Key Highlight / Core Contribution |
-| :--- | :--- | :--- |
-| **[HYMN Platform](https://hymn-platform.vercel.app/)** | `Next.js` `TypeScript` `PostgreSQL` `Prisma` | Client web platform featuring Edge-based RBAC authorization, secure JWT sessions, and server-mediated Vercel Blob upload pipelines. |
-| **[Portfolio Assistant](https://www.janayrawal.in)** | `FastAPI` `ChromaDB` `Gemini` `Next.js` | Personal site AI assistant built from scratch without LangChain. Streams tokens via SSE (Server-Sent Events) with sliding memory context. *[Private Repository]* |
-| **[SQL Intelligence](https://github.com/Janay-Rawal/Chat-with-SQLDB)** | `FastAPI` `LangChain` `Groq Llama` `Recharts` | Natural language database query generator with automated Recharts visualization and LRU cache. |
-| **[API Inspector](https://github.com/Janay-Rawal/API-Inspector)** | `Streamlit` `Playwright` `BeautifulSoup` | Local-first crawler and discovery engine that maps endpoint routes of undocumented APIs, verifies responses, and outputs structured AI-generated docs. |
-
----
-
-### 🛠️ Core Tech Stack
-
-<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ cat skills.json</p>
-
 <div align="center">
+  
+# ✦ Janay Rawal ✦
 
-[![Skills](https://skillicons.dev/icons?i=python,mysql,sqlite,fastapi,react,js,mongodb,azure,aws,docker,git,linux,tailwind&theme=dark)](https://skillicons.dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Backend+%26+AI+Systems+Engineer+⚡;Custom+RAG+%26+LLM+Architect+🤖;Building+Scalable+Next.js+%26+FastAPI+Platforms+🚀)](https://www.janayrawal.in)
 
-</div>
+<br />
 
-* **Languages & Frameworks:** Python · SQL (MySQL, SQLite) · FastAPI · REST APIs · React · JavaScript
-* **AI & ML:** LangChain · Generative AI · NLP · Transformers · TensorFlow · Scikit-learn
-* **Databases & Cloud:** MongoDB · Neo4j · ChromaDB · FAISS · Microsoft Azure · AWS (Textract) · Docker · Git · Linux
-* **Data & Analytics:** Power BI · Pandas · NumPy · Matplotlib · Power Apps · Power Automate
-
----
-
-### 📊 Accurate Git Metrics (Including Private Work)
-
-<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ fetch --metrics --live</p>
-
-<div align="center">
-  <img src="./stats.svg" width="390" />
-  &nbsp;&nbsp;
-  <img src="./languages.svg" width="390" />
-</div>
-
----
-
-### 📞 Contact & Profiles
-
-<p style="color: #10B981; font-family: monospace; font-size: 13px; font-weight: bold;">janay-rawal@sit-pune:~$ finger janay-rawal</p>
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Janay-Rawal)
-&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-janayrawal.in-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.janayrawal.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janay-rawal)
-&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Janay-Rawal)
 [![Gmail](https://img.shields.io/badge/Gmail-janayrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janayrawal@gmail.com)
-&nbsp;&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916366581769)
 
-<br/><br/>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn)
-
 </div>
+
+<br />
 
 ---
 
-### 🌊 Optional Wave ASCII (Alternatives for Neofetch icon)
+### 🚀 About Me
 
-If you want to swap out the character icon inside the Neofetch terminal block, here are two clean wave ASCII templates you can copy and paste:
+I am a passionate **Backend & AI Systems Engineer** specializing in designing high-performance server architectures, robust custom RAG pipelines, and intelligent modern web applications. 
 
-#### Option 1: Rolling Crests
-```text
-        _.._      _.._      _.._      _.._      _.._
-      .' .-'`   .' .-'`   .' .-'`   .' .-'`   .' .-'`
-     /  /      /  /      /  /      /  /      /  /
-    |  |      |  |      |  |      |  |      |  |
-    \  \      \  \      \  \      \  \      \  \
-     '._'-._   '._'-._   '._'-._   '._'-._   '._'-._
-        `''`      `''`      `''`      `''`      `''`
-```
+* 🎓 **Education:** Final Year B.Tech in E&TC at **SIT Pune** *(Graduating June 2026)*
+* 💼 **Current Role:** Software Engineer Intern at **Luminosity** & Active Contract Freelance Developer
+* 🧠 **Core Expertise:** Custom LLM orchestration without heavyweight abstractions, sliding-memory context systems, and scalable backend design
+* ⚡ **Engineering Philosophy:** Clean architecture, end-to-end type safety, deterministic AI outputs, and minimal production latency
 
-#### Option 2: Retro Wave Lines
-```text
-     ,-._   ,-._   ,-._   ,-._   ,-._   ,-._   ,-._   ,-._
-    /    \ /    \ /    \ /    \ /    \ /    \ /    \ /    \
-   \      \      \      \      \      \      \      \      \
-    `---'  `---'  `---'  `---'  `---'  `---'  `---'  `---'
-```
+---
 
+> [!TIP]
+> ### 🤖 Interact with my AI Portfolio Assistant
+> Why read static documentation when you can ask an AI directly? Chat with my custom-trained RAG AI assistant to deeply explore my codebase architectures, freelance contracts, design trade-offs, and engineering decisions.
+>
+> 🌐 **[Launch AI Assistant & Explore Projects at janayrawal.in →](https://www.janayrawal.in)**
+
+---
+
+### ⚡ Featured Architectures & Work
+
+| Project | Tech Stack | Core Architecture & Highlights |
+| :--- | :--- | :--- |
+| **[🌐 HYMN Platform](https://hymn-platform.vercel.app/)** | `Next.js` `TypeScript` `PostgreSQL` `Prisma` | Production client SaaS web platform featuring Edge-based RBAC authorization, secure JWT session management, and server-mediated Vercel Blob upload pipelines. |
+| **[🤖 Portfolio Assistant](https://www.janayrawal.in)** | `FastAPI` `ChromaDB` `Gemini` `Next.js` | Custom RAG engine engineered entirely from scratch *(zero LangChain overhead)*. Features live token streaming via SSE (Server-Sent Events) with sliding memory context. *[Private Repository]* |
+| **[📊 SQL Intelligence](https://github.com/Janay-Rawal/Chat-with-SQLDB)** | `FastAPI` `LangChain` `Groq Llama` `Recharts` | Natural language database query generator coupled with an automated Recharts visual analytics dashboard and custom LRU query caching. |
+| **[🔎 API Inspector](https://github.com/Janay-Rawal/API-Inspector)** | `Streamlit` `Playwright` `BeautifulSoup` | Local-first crawler and discovery engine that dynamically maps endpoint routes of undocumented APIs, verifies HTTP responses, and generates structured API docs. |
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,mysql,sqlite,mongodb,azure,aws,docker,git,linux,tailwind&theme=dark" alt="Tech Stack Icons" />
+  </a>
+  <br /><br />
+</div>
+
+| Domain | Core Technologies & Tools |
+| :--- | :--- |
+| **💬 Languages & Web Frameworks** | Python · TypeScript · JavaScript · SQL (MySQL, SQLite) · FastAPI · Next.js · React |
+| **🧠 AI & Machine Learning** | Custom RAG Architectures · Generative AI · NLP · Transformers · LangChain · TensorFlow · Scikit-learn |
+| **🗄️ Databases & Cloud Infrastructure** | ChromaDB · FAISS · MongoDB · Neo4j · Docker · Microsoft Azure · AWS (Textract) · Git · Linux |
+| **📈 Data Analytics & Automation** | Pandas · NumPy · Matplotlib · Power BI · Power Apps · Power Automate |
+
+---
+
+### 📈 GitHub Metrics & Activity
+
+<div align="center">
+  <br />
+  <img src="./stats.svg" alt="GitHub Profile Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="./languages.svg" alt="Top Languages Breakdown" width="48%" />
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" alt="Footer Wave" width="100%" />
+</div>
