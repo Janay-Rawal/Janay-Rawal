@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-janayrawal.in-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.janayrawal.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janay-rawal)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Janay-Rawal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Janay1711)
 [![Gmail](https://img.shields.io/badge/Gmail-janayrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janayrawal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916366581769)
 
