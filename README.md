@@ -42,7 +42,7 @@ I design and build backend systems, AI-powered web applications, and practical d
 | Project | Tech Stack | Technical Implementation & Architecture |
 | :--- | :--- | :--- |
 | **[🌐 HYMN Platform](https://hymn-platform.vercel.app/)** | `Next.js` `TypeScript` `PostgreSQL` `Prisma` | Production client SaaS platform implemented with Edge-based RBAC authorization, secure JWT session handling, and server-mediated Vercel Blob storage pipelines. |
-| **[🤖 Portfolio Assistant](https://www.janayrawal.in)** | `FastAPI` `ChromaDB` `Gemini` `Next.js` | Custom RAG assistant and retrieval pipeline featuring token streaming via Server-Sent Events (SSE) and dynamic sliding-memory conversational context. *[Private Repository]* |
+| **[🤖 AI Portfolio Assistant](https://www.janayrawal.in)** | `FastAPI` `Pinecone` `Gemini 2.0` `Groq` `React` | Cloud-native RAG assistant engineered with Server-Sent Events (SSE) token streaming, dual-engine failover switching (Gemini → Llama 3.3), conversational memory, and autonomous DOM navigation routing. *[Private Repository]* |
 | **[📊 SQL Intelligence](https://github.com/Janay-Rawal/Chat-with-SQLDB)** | `FastAPI` `LangChain` `Groq Llama` `Recharts` | Natural language database query interface emphasizing schema-aware retrieval, automated SQL generation and validation, LRU query caching, and automated Recharts visualization. |
 | **[🔎 API Inspector](https://github.com/Janay-Rawal/API-Inspector)** | `Streamlit` `Playwright` `BeautifulSoup` | Local-first crawling and endpoint discovery utility built with Playwright for routing verification, HTTP response schema validation, and automated API documentation generation. |
 
