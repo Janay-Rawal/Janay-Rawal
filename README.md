@@ -23,7 +23,7 @@
 I design and build backend systems, AI-powered web applications, and practical developer tools. My daily engineering workflows revolve around FastAPI, Next.js, TypeScript, vector databases, and LLM orchestration, with a strong focus on clean architecture, scalable API design, and reliable RAG pipelines.
 
 * 🎓 **Education:** B.Tech in Electronics & Telecommunication, Symbiosis Institute of Technology, Pune *(Graduated June 2026)*
-* 💼 **Experience:** Software Engineer Intern @ **Luminosity** & Active Contract Freelance Developer
+* 💼 **Experience:** Software Engineer Intern @ **Luminosity Software Limited** & Active Contract Freelance Developer
 * 🛠️ **Core Focus:** Developing structured backend APIs, reliable LLM retrieval workflows, and type-safe modern web architectures
 * 📐 **Engineering Philosophy:** Clear abstraction boundaries, predictable state management, comprehensive type safety, and practical debugging
 
