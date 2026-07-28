@@ -6,7 +6,7 @@
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-janayrawal.in-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.janayrawal.in) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janay-rawal) &nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Janay1711) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-janayrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janayrawal@gmail.com) &nbsp; [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916366581769)
+<a href="https://www.janayrawal.in"><img src="https://img.shields.io/badge/Portfolio-janayrawal.in-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a> &nbsp; <a href="https://www.linkedin.com/in/janay-rawal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp; <a href="https://leetcode.com/Janay1711"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> &nbsp; <a href="mailto:janayrawal@gmail.com"><img src="https://img.shields.io/badge/Gmail-janayrawal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp; <a href="https://wa.me/916366581769"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 

@@ -3,32 +3,21 @@ import json
 import urllib.request
 import urllib.error
 
-# Config
 USERNAME = "Janay-Rawal"
 TOKEN = os.getenv("PAT_TOKEN") or os.getenv("GITHUB_TOKEN")
 
-# Languages to exclude from profile statistics (e.g. legacy course assignments or markup)
 EXCLUDE_LANGUAGES = {"HTML", "CSS", "SCSS", "C", "C++"}
 
-# Map equivalent or derivative filetypes into core stack languages
 LANGUAGE_MAPPINGS = {
     "Jupyter Notebook": {"name": "Python", "color": "#3572A5"}
 }
 
-# Fallback/Default values (accurate estimates)
-total_contribs = 486
-total_commits = 432
-total_prs = 18
-total_reviews = 22
-total_issues = 14
-
-top_languages = [
-    {"name": "Python", "percentage": 52.4, "color": "#3572A5"},
-    {"name": "TypeScript", "percentage": 24.1, "color": "#3178C6"},
-    {"name": "JavaScript", "percentage": 14.8, "color": "#F1E05A"},
-    {"name": "SQL", "percentage": 6.2, "color": "#E38C00"},
-    {"name": "Bash", "percentage": 2.5, "color": "#89e051"}
-]
+total_contribs = 0
+total_commits = 0
+total_prs = 0
+total_reviews = 0
+total_issues = 0
+top_languages = []
 
 if TOKEN:
     print("Token found. Querying GitHub API...")
@@ -72,13 +61,6 @@ if TOKEN:
                 contribution_years = user_data.get("contributionsCollection", {}).get("contributionYears", [])
                 print(f"Found active contribution years: {contribution_years}")
                 
-                total_contribs = 0
-                total_commits = 0
-                total_prs = 0
-                total_issues = 0
-                total_reviews = 0
-                
-                # Fetch all-time contributions across every contribution year
                 for year in contribution_years:
                     year_query = """
                     query($login: String!, $from: DateTime!, $to: DateTime!) {
@@ -117,7 +99,6 @@ if TOKEN:
                     except Exception as ye:
                         print(f"Error fetching data for year {year}: {ye}")
 
-                # Aggregate languages
                 repos = user_data.get("repositories", {}).get("nodes", [])
                 lang_totals = {}
                 for r in repos:
@@ -128,11 +109,9 @@ if TOKEN:
                         name = node.get("name")
                         color = node.get("color")
                         if name:
-                            # Exclude markup and unwanted languages
                             if name in EXCLUDE_LANGUAGES:
                                 continue
                             
-                            # Map derivative types (like Jupyter Notebooks) to core languages
                             if name in LANGUAGE_MAPPINGS:
                                 color = LANGUAGE_MAPPINGS[name]["color"]
                                 name = LANGUAGE_MAPPINGS[name]["name"]
@@ -145,7 +124,6 @@ if TOKEN:
                 total_size = sum(item[1]["size"] for item in sorted_langs)
                 
                 if total_size > 0:
-                    top_languages = []
                     for name, info in sorted_langs[:5]:
                         pct = (info["size"] / total_size) * 100
                         top_languages.append({
@@ -155,13 +133,12 @@ if TOKEN:
                         })
                 print("Successfully parsed live data from GitHub.")
             else:
-                print("Error: User data not found in GraphQL response. Using estimates.")
+                print("Error: User data not found in GraphQL response.")
     except Exception as e:
-        print(f"Error fetching/parsing API data: {e}. Using estimates.")
+        print(f"Error fetching/parsing API data: {e}")
 else:
-    print("No token found. Generating stats SVGs using estimated profile data.")
+    print("No token found. Please set PAT_TOKEN or GITHUB_TOKEN environment variable.")
 
-# Grade logic
 if total_contribs > 500:
     grade = "S"
 elif total_contribs > 250:
@@ -171,7 +148,6 @@ elif total_contribs > 100:
 else:
     grade = "B"
 
-# Write stats.svg
 stats_svg_content = f"""<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .card {{
@@ -220,7 +196,6 @@ stats_svg_content = f"""<svg width="400" height="200" viewBox="0 0 400 200" fill
     <text class="value" x="170" y="105">{total_reviews}</text>
   </g>
   
-  <!-- Circle Rank Graphic -->
   <circle cx="330" cy="105" r="40" fill="#15152A" stroke="#1E1B4B" stroke-width="4" />
   <circle class="grade-circle" cx="330" cy="105" r="40" />
   <text class="grade-text" x="330" y="105">{grade}</text>
@@ -232,11 +207,10 @@ with open("stats.svg", "w") as f:
     f.write(stats_svg_content)
 print("Wrote stats.svg")
 
-# Generate Language rows
 lang_rows = ""
 for i, lang in enumerate(top_languages):
     y_pos = i * 25
-    bar_w = int(lang["percentage"] * 2) # max 200px
+    bar_w = int(lang["percentage"] * 2)
     lang_rows += f"""
     <g transform="translate(0, {y_pos})">
       <text class="lang-name" x="0" y="12">{lang["name"]}</text>
@@ -245,7 +219,6 @@ for i, lang in enumerate(top_languages):
       <text class="lang-pct" x="350" y="12">{lang["percentage"]}%</text>
     </g>"""
 
-# Write languages.svg
 languages_svg_content = f"""<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .card {{
