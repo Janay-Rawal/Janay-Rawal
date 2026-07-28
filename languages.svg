@@ -20,33 +20,21 @@
   <g transform="translate(25, 55)">
     
     <g transform="translate(0, 0)">
-      <text class="lang-name" x="0" y="12">C</text>
-      <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
-      <rect x="110" y="4" width="158" height="8" rx="4" fill="#555555" />
-      <text class="lang-pct" x="350" y="12">79.2%</text>
-    </g>
-    <g transform="translate(0, 25)">
-      <text class="lang-name" x="0" y="12">Jupyter Notebook</text>
-      <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
-      <rect x="110" y="4" width="36" height="8" rx="4" fill="#DA5B0B" />
-      <text class="lang-pct" x="350" y="12">18.1%</text>
-    </g>
-    <g transform="translate(0, 50)">
       <text class="lang-name" x="0" y="12">Python</text>
       <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
-      <rect x="110" y="4" width="2" height="8" rx="4" fill="#3572A5" />
-      <text class="lang-pct" x="350" y="12">1.4%</text>
+      <rect x="110" y="4" width="188" height="8" rx="4" fill="#3572A5" />
+      <text class="lang-pct" x="350" y="12">94.0%</text>
     </g>
-    <g transform="translate(0, 75)">
+    <g transform="translate(0, 25)">
       <text class="lang-name" x="0" y="12">JavaScript</text>
       <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
-      <rect x="110" y="4" width="2" height="8" rx="4" fill="#f1e05a" />
-      <text class="lang-pct" x="350" y="12">1.2%</text>
+      <rect x="110" y="4" width="11" height="8" rx="4" fill="#f1e05a" />
+      <text class="lang-pct" x="350" y="12">5.9%</text>
     </g>
-    <g transform="translate(0, 100)">
-      <text class="lang-name" x="0" y="12">C++</text>
+    <g transform="translate(0, 50)">
+      <text class="lang-name" x="0" y="12">R</text>
       <rect x="110" y="4" width="200" height="8" rx="4" fill="#1E1B4B" />
-      <rect x="110" y="4" width="0" height="8" rx="4" fill="#f34b7d" />
+      <rect x="110" y="4" width="0" height="8" rx="4" fill="#198CE7" />
       <text class="lang-pct" x="350" y="12">0.1%</text>
     </g>
   </g>
