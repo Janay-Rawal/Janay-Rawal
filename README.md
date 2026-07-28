@@ -2,7 +2,7 @@
   
 # ✦ Janay Rawal ✦
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Backend+%26+AI+Systems+Engineer+⚡;Custom+RAG+%26+LLM+Architect+🤖;Building+Scalable+Next.js+%26+FastAPI+Platforms+🚀)](https://www.janayrawal.in)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=50&lines=Backend+Engineer+⚡;Building+AI-Powered+Applications+🤖;FastAPI+•+Next.js+•+LLM+Systems+🚀)](https://www.janayrawal.in)
 
 <br />
 
@@ -20,31 +20,31 @@
 
 ### 🚀 About Me
 
-I am a passionate **Backend & AI Systems Engineer** specializing in designing high-performance server architectures, robust custom RAG pipelines, and intelligent modern web applications. 
+I design and build backend systems, AI-powered web applications, and practical developer tools. My daily engineering workflows revolve around FastAPI, Next.js, TypeScript, vector databases, and LLM orchestration, with a strong focus on clean architecture, scalable API design, and reliable RAG pipelines.
 
-* 🎓 **Education:** Final Year B.Tech in E&TC at **SIT Pune** *(Graduating June 2026)*
-* 💼 **Current Role:** Software Engineer Intern at **Luminosity** & Active Contract Freelance Developer
-* 🧠 **Core Expertise:** Custom LLM orchestration without heavyweight abstractions, sliding-memory context systems, and scalable backend design
-* ⚡ **Engineering Philosophy:** Clean architecture, end-to-end type safety, deterministic AI outputs, and minimal production latency
+* 🎓 **Education:** B.Tech in Electronics & Telecommunication, Symbiosis Institute of Technology, Pune *(Graduated June 2026)*
+* 💼 **Experience:** Software Engineer Intern @ **Luminosity** & Active Contract Freelance Developer
+* 🛠️ **Core Focus:** Developing structured backend APIs, reliable LLM retrieval workflows, and type-safe modern web architectures
+* 📐 **Engineering Philosophy:** Clear abstraction boundaries, predictable state management, comprehensive type safety, and practical debugging
 
 ---
 
 > [!TIP]
-> ### 🤖 Interact with my AI Portfolio Assistant
-> Why read static documentation when you can ask an AI directly? Chat with my custom-trained RAG AI assistant to deeply explore my codebase architectures, freelance contracts, design trade-offs, and engineering decisions.
+> ### 🤖 Chat with my AI Portfolio Assistant
+> You can converse directly with my custom RAG AI assistant to explore my projects, technical implementations, system architectures, and engineering decisions.
 >
-> 🌐 **[Launch AI Assistant & Explore Projects at janayrawal.in →](https://www.janayrawal.in)**
+> 🌐 **[Launch AI Assistant at janayrawal.in →](https://www.janayrawal.in)**
 
 ---
 
-### ⚡ Featured Architectures & Work
+### ⚡ Featured Projects
 
-| Project | Tech Stack | Core Architecture & Highlights |
+| Project | Tech Stack | Technical Implementation & Architecture |
 | :--- | :--- | :--- |
-| **[🌐 HYMN Platform](https://hymn-platform.vercel.app/)** | `Next.js` `TypeScript` `PostgreSQL` `Prisma` | Production client SaaS web platform featuring Edge-based RBAC authorization, secure JWT session management, and server-mediated Vercel Blob upload pipelines. |
-| **[🤖 Portfolio Assistant](https://www.janayrawal.in)** | `FastAPI` `ChromaDB` `Gemini` `Next.js` | Custom RAG engine engineered entirely from scratch *(zero LangChain overhead)*. Features live token streaming via SSE (Server-Sent Events) with sliding memory context. *[Private Repository]* |
-| **[📊 SQL Intelligence](https://github.com/Janay-Rawal/Chat-with-SQLDB)** | `FastAPI` `LangChain` `Groq Llama` `Recharts` | Natural language database query generator coupled with an automated Recharts visual analytics dashboard and custom LRU query caching. |
-| **[🔎 API Inspector](https://github.com/Janay-Rawal/API-Inspector)** | `Streamlit` `Playwright` `BeautifulSoup` | Local-first crawler and discovery engine that dynamically maps endpoint routes of undocumented APIs, verifies HTTP responses, and generates structured API docs. |
+| **[🌐 HYMN Platform](https://hymn-platform.vercel.app/)** | `Next.js` `TypeScript` `PostgreSQL` `Prisma` | Production client SaaS platform implemented with Edge-based RBAC authorization, secure JWT session handling, and server-mediated Vercel Blob storage pipelines. |
+| **[🤖 Portfolio Assistant](https://www.janayrawal.in)** | `FastAPI` `ChromaDB` `Gemini` `Next.js` | Custom RAG assistant and retrieval pipeline featuring token streaming via Server-Sent Events (SSE) and dynamic sliding-memory conversational context. *[Private Repository]* |
+| **[📊 SQL Intelligence](https://github.com/Janay-Rawal/Chat-with-SQLDB)** | `FastAPI` `LangChain` `Groq Llama` `Recharts` | Natural language database query interface emphasizing schema-aware retrieval, automated SQL generation and validation, LRU query caching, and automated Recharts visualization. |
+| **[🔎 API Inspector](https://github.com/Janay-Rawal/API-Inspector)** | `Streamlit` `Playwright` `BeautifulSoup` | Local-first crawling and endpoint discovery utility built with Playwright for routing verification, HTTP response schema validation, and automated API documentation generation. |
 
 ---
 
@@ -53,17 +53,17 @@ I am a passionate **Backend & AI Systems Engineer** specializing in designing hi
 <div align="center">
   <br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,mysql,sqlite,mongodb,azure,aws,docker,git,linux,tailwind&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,postgres,mongodb,docker,azure,aws,git,linux&theme=dark" alt="Tech Stack Icons" />
   </a>
   <br /><br />
 </div>
 
-| Domain | Core Technologies & Tools |
+| Domain | Core Technologies & Tooling |
 | :--- | :--- |
-| **💬 Languages & Web Frameworks** | Python · TypeScript · JavaScript · SQL (MySQL, SQLite) · FastAPI · Next.js · React |
-| **🧠 AI & Machine Learning** | Custom RAG Architectures · Generative AI · NLP · Transformers · LangChain · TensorFlow · Scikit-learn |
-| **🗄️ Databases & Cloud Infrastructure** | ChromaDB · FAISS · MongoDB · Neo4j · Docker · Microsoft Azure · AWS (Textract) · Git · Linux |
-| **📈 Data Analytics & Automation** | Pandas · NumPy · Matplotlib · Power BI · Power Apps · Power Automate |
+| **💬 Languages & Frameworks** | Python · TypeScript · JavaScript · SQL (PostgreSQL, SQLite) · FastAPI · Next.js · React |
+| **🧠 AI & LLM Systems** | Vector Embeddings · RAG Pipelines · LLM Orchestration · NLP · Transformers · LangChain |
+| **🗄️ Databases & Cloud Infra** | PostgreSQL · ChromaDB · MongoDB · Neo4j · Docker · Microsoft Azure · AWS · Git · Linux |
+| **📈 Tooling & Data Workflows** | Playwright · Prisma · Pandas · NumPy · Power BI · Power Automate |
 
 ---
 
