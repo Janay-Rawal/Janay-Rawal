@@ -34,10 +34,10 @@
   
   <g transform="translate(25, 60)">
     <text class="label" x="0" y="15">Total Contributions</text>
-    <text class="value" x="170" y="15">499</text>
+    <text class="value" x="170" y="15">502</text>
     
     <text class="label" x="0" y="45">Total Commits</text>
-    <text class="value" x="170" y="45">473</text>
+    <text class="value" x="170" y="45">476</text>
     
     <text class="label" x="0" y="75">Pull Requests</text>
     <text class="value" x="170" y="75">2</text>
@@ -48,6 +48,6 @@
   
   <circle cx="330" cy="105" r="40" fill="#15152A" stroke="#1E1B4B" stroke-width="4" />
   <circle class="grade-circle" cx="330" cy="105" r="40" />
-  <text class="grade-text" x="330" y="105">A+</text>
+  <text class="grade-text" x="330" y="105">S</text>
   <text x="330" y="160" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="10" fill="#94A3B8" text-anchor="middle">PROFILE RANK</text>
 </svg>
